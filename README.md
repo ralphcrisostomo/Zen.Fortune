@@ -13,6 +13,7 @@ Important
 ---------
 
 If you add something, always run this command:
+
     $ strfile -c % zen zen.dat
 	
 
