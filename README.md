@@ -14,7 +14,7 @@ How To Use
 Important
 ---------
 
-If you add something, always run this command:
+If you add a new quote on "zen.dat", always run this command:
 
     $ strfile -c % zen zen.dat
 	
