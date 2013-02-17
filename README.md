@@ -3,6 +3,14 @@ Zen.Fortune
 
 converted http://zenhabits.net/simple-living-manifesto-72-ideas-to-simplify-your-life/ to use in "fortune"
 
+
+Insatll "fortune" and "cowsay"
+----------
+
+    $ brew install fortune cowsay
+    $ gem install lolcat
+    $ fortune | cowsay | lolcat
+
 How To Use
 ----------
 
